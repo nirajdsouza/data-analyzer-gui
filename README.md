@@ -23,7 +23,7 @@ A Python-based GUI application for data analysis and visualization using `tkinte
 
 1.  Run the script:
     ```bash
-    python script_name.py
+    python data_analysis_tool.py
     ```
     
 2.  Use the GUI to load and analyze your dataset, create visualizations, or train a model.
